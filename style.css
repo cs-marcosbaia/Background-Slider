@@ -15,11 +15,11 @@ body, #slider, .wrap, .slide-content{
     background-repeat: no-repeat;
 }
 
-.slide1{background-image: url('imagens/background-1.jpg');}
-.slide2{background-image: url('imagens/background-2.jpg');}
-.slide3{background-image: url('imagens/background-3.jpg');}
-.slide4{background-image: url('imagens/background-4.jpg');}
-.slide5{background-image: url('imagens/background-5.jpg');}
+.slide1{background-image: url('images/background-1.jpg');}
+.slide2{background-image: url('images/background-2.jpg');}
+.slide3{background-image: url('images/background-3.jpg');}
+.slide4{background-image: url('images/background-4.jpg');}
+.slide5{background-image: url('images/background-5.jpg');}
 
 .slide-content{
     display: flex;
